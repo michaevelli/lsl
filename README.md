@@ -1,4 +1,4 @@
-## TITLE
+## lsl
 
 `ls -l` command in c
 Done not to actually use but to show I can do this
@@ -8,7 +8,7 @@ Done not to actually use but to show I can do this
 <pre>
 $ <b>./lsl</b>
 total 28
--rw-rw-r-- 1 username username  1214 Sep 18 12:09 README.md
+-rw-rw-r-- 1 username username  1212 Sep 18 12:09 README.md
 -rwxrwxr-x 1 username username 14264 Sep 18 12:12 lsl
 -rw-r--r-- 1 username username  6262 Sep 18 12:08 lsl.c
 </pre>
